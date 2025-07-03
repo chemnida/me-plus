@@ -196,7 +196,6 @@ NODE_ENV=development
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/yeji424"><img src="https://avatars.githubusercontent.com/u/196058650?v=4" width="120px;" alt=""/><br /><b>김예지</b></a><br /><p>👑팀장</p></td>
-      <td align="center"><a href="https://github.com/yyeonkim"><img src="https://avatars.githubusercontent.com/u/70844774?v=4" width="120px;" alt=""/><br /><b>김용연</b></a><br /><p>개발</p></td>
       <td align="center"><a href="https://github.com/hyonun321"><img src="https://avatars.githubusercontent.com/u/119800605?v=4" width="120px;" alt=""/><br /><b>김현훈</b></a><br /><p>개발</p></td>
       <td align="center"><a href="https://github.com/leeemingyu"><img src="https://avatars.githubusercontent.com/u/101480155?v=4" width="120px;" alt=""/><br /><b>이민규</b></a><br /><p>개발</p></td>
       <td align="center"><a href="https://github.com/chemnida"><img src="https://avatars.githubusercontent.com/u/196130116?v=4" width="120px;" alt=""/><br /><b>이채민</b></a><br /><p>개발</p></td>
