@@ -1,8 +1,8 @@
 # 유레카 프론트엔드 비대면 2조
 
 ## 미플러스(Me+)
-<p>
-![image](https://github.com/user-attachments/assets/3e5e6047-ab52-4a93-9da5-46fd24bb3ef3)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e5e6047-ab52-4a93-9da5-46fd24bb3ef3" width="700">
 </p>
 
 <p align="center">
